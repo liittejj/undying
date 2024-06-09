@@ -1,0 +1,93 @@
+[
+  {
+    "skin_name": "Bane Lord",
+    "hero_name": "Bane",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_1015875206499772.jpeg",
+    "replace": [
+      {
+        "skin": "Frozen King",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Heroes/raw/main/baneBoss.zip",
+        "size" : "4.93 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Grock Red Buff",
+    "hero_name": "Grock",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_620478126923100.jpeg",
+    "replace": [
+      {
+        "skin": "Fortress Titan",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero441-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/NewgrockRedb.zip",
+        "size" : "560 KB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Miya Horned Lizard",
+    "hero_name": "Miya",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_831476695216836.jpeg",
+    "replace": [
+      {
+        "skin": "Moonlight Archer",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero011-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/monsterMiya.zip",
+        "size" : "3.13 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Helcurt V.E.N.O.M Spider",
+    "hero_name": "Helcurt",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_153297591141385.jpeg",
+    "replace": [
+      {
+        "skin": "Shadowbringer",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero511-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/monsterSpider.zip",
+        "size" : "435 KB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Helcurt Thunder Fenrir",
+    "hero_name": "Helcurt",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_323204390142374.jpeg",
+    "replace": [
+      {
+        "skin": "Shadowbringer",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero511-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/monsterHcBlue.zip",
+        "size" : "4.35 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Ling Molten Fiend",
+    "hero_name": "Ling",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_314434814315924.jpeg",
+    "replace": [
+      {
+        "skin": "Cyan Finch",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero841-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/monsterLing.zip",
+        "size" : "10.4 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Hylos Lord",
+    "hero_name": "Hylos",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_2040006509699663.jpeg",
+    "replace": [
+      {
+        "skin": "Grand Warden",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero491-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/monsterlord.zip",
+        "size" : "8.83 MB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "skin_name": "Diggie ft. Minions",
+    "hero_name": "Diggie",
+    "image": "https://raw.githubusercontent.com/maasdevs/ml-intro/main/Minions/20230914_203445.png",
+    "replace": [
+      {
+        "skin": "Timekeeper",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero481-portrait.png",
+        "link": "https://github.com/maasdevs/ml-intro/raw/main/Minions/Timekeeper%20ft.%20Minions.zip",
+        "size" : "3.91 MB"
+      }
+    ]
+  }
+]

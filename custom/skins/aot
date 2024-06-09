@@ -1,0 +1,41 @@
+[
+  {
+    "hero_name": "Barats",
+    "skin_name": "Barats ft. Colossal Titan",
+    "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/thumbnail/Barats%20ft.%20Colossal%20Titan.png",
+    "replace": [
+      {
+        "skin": "Dino Rider",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero991-portrait.png",
+        "link": "https://github.com/maasdevs/x-database/raw/main/custom/scripts/Barats%20ft.%20Colossal%20Titan.zip",
+        "size" : "2.69 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Chou ft. Eren",
+    "hero_name": "Chou",
+    "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/thumbnail/Chou%20ft.%20Eren%20Titan.png",
+    "replace": [
+      {
+        "skin": "Kung Fu Boy",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png",
+        "link": "https://github.com/maasdevs/x-database/raw/main/custom/scripts/Chou%20ft.%20Eren.zip",
+        "size" : "8.18 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Fanny ft. Mikasa",
+    "hero_name": "Fanny",
+    "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/thumbnail/Fanny%20ft.%20Mikasa.png",
+    "replace": [
+      {
+        "skin": "Blade Dancer",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png",
+        "link": "https://github.com/maasdevs/x-database/raw/main/custom/scripts/Fanny%20ft.%20Mikasa.zip",
+        "size" : "2.79 MB"
+      }
+    ]
+  }
+]

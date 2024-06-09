@@ -1,0 +1,67 @@
+[
+  {
+    "skin_name": "Eudora ft. Nami",
+    "hero_name": "Eudora",
+    "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/thumbnail/Eudora%20ft.%20Nami.png",
+    "replace": [
+      {
+        "skin": "Lightning Weaver",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero151-portrait.png",
+        "link": "https://github.com/maasdevs/x-database/raw/main/custom/scripts/Eudora%20ft.%20Nami.zip",
+        "size" : "3.75 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Chou ft. Portgas D Ace",
+    "hero_name": "Chou",
+    "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/thumbnail/Chou%20ft.%20Portgas%20D%20Ace.png",
+    "replace": [
+      {
+        "skin": "Kung Fu Boy",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png",
+        "link": "https://github.com/maasdevs/x-database/raw/main/custom/scripts/Chou%20ft%20Portgas%20D%20Ace.zip",
+        "size" : "3.50 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Chou ft. Sanji",
+    "hero_name": "Chou",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_813243957059544.jpeg",
+    "replace": [
+      {
+        "skin": "Kung Fu Boy",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/MG/raw/main/chouSanji.zip",
+        "size" : "5.37 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Lancelot ft. Shanks",
+    "hero_name": "Lancelot",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_596549975972249.jpeg",
+    "replace": [
+      {
+        "skin": "Blade of Roses",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/MG/raw/main/lanceShanks.zip",
+        "size" : "3.97 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Lancelot ft. Brook",
+    "hero_name": "Lancelot",
+    "image": "https://github.com/KymyomaEclipse7/Heroes/raw/main/received_578329831181981.jpeg",
+    "replace": [
+      {
+        "skin": "Blade of Roses",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/lanceBrook.zip",
+        "size" : "8.06 MB"
+      }
+    ]
+  }
+]

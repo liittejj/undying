@@ -1,0 +1,210 @@
+[
+  {
+    "skin_name": "Alucard Kokushibu",
+    "hero_name": "Alucard",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_1497951283943352.jpeg",
+    "replace": [
+      {
+        "skin": "Demon Hunter",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Heroes/raw/main/alu_kokushibu.zip",
+        "size" : "3.64 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Alucard Rengoku",
+    "hero_name": "Alucard",
+    "image": "https://github.com/KymyomaEclipse7/MG/raw/main/received_297714116092924.jpeg",
+    "replace": [
+      {
+        "skin": "Demon Hunter",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/MG/raw/main/aluRengoku.zip",
+        "size" : "4.74 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Alucard Tanjiro Kamado",
+    "hero_name": "Alucard",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_1420824148711095.jpeg",
+    "replace": [
+      {
+        "skin": "Demon Hunter",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Heroes/raw/main/alu_tanjiro.zip",
+        "size" : "2.88 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Badang Akaza",
+    "hero_name": "Badang",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_752389473560773.jpeg",
+    "replace": [
+      {
+        "skin": "Tribal Warrior",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Heroes/raw/main/badang_akaza.zip",
+        "size" : "2.18 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Benedetta Shinobu",
+    "hero_name": "Benedetta",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_314538910912795.jpeg",
+    "replace": [
+      {
+        "skin": "Shadow Ranger",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Heroes/raw/main/bene_shinobu.zip",
+        "size" : "2.69 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Chou Akaza",
+    "hero_name": "Chou",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_983468932691403.jpeg",
+    "replace": [
+      {
+        "skin": "Kung Fu Boy",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Heroes/raw/main/chou_akaza.zip",
+        "size" : "4.74 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Esmeralda Daki",
+    "hero_name": "Esmeralda",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_1319093985690218.jpeg",
+    "replace": [
+      {
+        "skin": "Astrologer",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero811-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Heroes/raw/main/esme_daki.zip",
+        "size" : "3.17 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Lancelot Zenitsu",
+    "hero_name": "Lancelot",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_793956222283577.jpeg",
+    "replace": [
+      {
+        "skin": "Blade of Roses",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Heroes/raw/main/lance_zenitsu.zip",
+        "size" : "3.99 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Lapu-Lapu Inosuke",
+    "hero_name": "Lapu-Lapu",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_3634963490057463.jpeg",
+    "replace": [
+      {
+        "skin": "Courageous Blade",
+        "portrait": "",
+        "link": "https://github.com/KymyomaEclipse7/Heroes/raw/main/lapu_inosuke.zip",
+        "size" : "6.55 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Lapu-Lapu Uzui",
+    "hero_name": "Lapu-Lapu",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_961675118403808.jpeg",
+    "replace": [
+      {
+        "skin": "Courageous Blade",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Heroes/raw/main/lapu_uzui.zip",
+        "size" : "3.85 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Ling Giyu Tamioka",
+    "hero_name": "Ling",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_924589445308659.jpeg",
+    "replace": [
+      {
+        "skin": "Cyan Finch",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero841-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Heroes/raw/main/ling_giyu.zip",
+        "size" : "4.86 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Ling Kokushibu",
+    "hero_name": "Ling",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_799845618395063.jpeg",
+    "replace": [
+      {
+        "skin": "Cyan Finch",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero841-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Heroes/raw/main/ling_kokushibu.zip",
+        "size" : "8.98 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Ling Obanai",
+    "hero_name": "Ling",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_260086299971530.jpeg",
+    "replace": [
+      {
+        "skin": "Cyan Finch",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero841-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Heroes/raw/main/ling_obanai.zip",
+        "size" : "2.26 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Martis Gyutaru",
+    "hero_name": "Martis",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_1456131481873319.jpeg",
+    "replace": [
+      {
+        "skin": "Ashura King",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero581-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Heroes/raw/main/martis_gyutaro.zip",
+        "size" : "3.48 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Selena Nezuko",
+    "hero_name": "Selena",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_778946824028550.jpeg",
+    "replace": [
+      {
+        "skin": "Abyssal Witch",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero631-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Heroes/raw/main/selena_nezuko.zip",
+        "size" : "6.55 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Masha Nezuko",
+    "hero_name": "Masha",
+    "image": "https://github.com/KymyomaEclipse7/Tank/raw/main/received_1421656841953199.jpeg",
+    "replace": [
+      {
+        "skin": "Wild-oats Fist",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Tank/raw/main/mashaNezuko.zip",
+        "size" : "9.85 MB"
+      }
+    ]
+  }
+]

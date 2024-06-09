@@ -1,0 +1,28 @@
+[
+  {
+    "skin_name": "Fanny Chibi",
+    "hero_name": "Fanny",
+    "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/thumbnail/Fanny%20Chibi.jpg",
+    "replace": [
+      {
+        "skin": "Blade Dancer",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png",
+        "link": "https://github.com/maasdevs/x-database/raw/main/custom/scripts/Fanny%20Chibi.zip",
+        "size" : "4.14 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Kadita ft. Code Mark",
+    "hero_name": "Kadita",
+    "image": "https://raw.githubusercontent.com/maasdevs/x-database/main/custom/thumbnail/Kadita%20ft.%20Code%20Mark.jpg",
+    "replace": [
+      {
+        "skin": "Ocean Goddess",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero751-portrait.png",
+        "link": "https://github.com/maasdevs/x-database/raw/main/custom/scripts/Kadita%20ft.%20Code%20Mark.zip",
+        "size" : "1.50 MB"
+      }
+    ]
+  }
+]

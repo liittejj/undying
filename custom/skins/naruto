@@ -1,0 +1,184 @@
+[
+  {
+    "skin_name": "Popol and Kupa ft. Kiba",
+    "hero_name": "Popol and Kupa",
+    "image": "https://raw.githubusercontent.com/maasdevs/ml-intro/main/NARUTO/20230914_225133.png",
+    "replace": [
+      {
+        "skin": "Iceland Companions",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero941-portrait.png",
+        "link": "https://github.com/maasdevs/ml-intro/raw/main/NARUTO/Popol%20%26%20Kupa%20ft%20Kiba.zip",
+        "size" : "8.71 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Yin ft. Tobi",
+    "hero_name": "Yin",
+    "image": "https://raw.githubusercontent.com/maasdevs/ml-intro/main/NARUTO/20230914_210618.png",
+    "replace": [
+      {
+        "skin": "Martial Genius",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1131-portrait.png",
+        "link": "https://github.com/maasdevs/ml-intro/raw/main/NARUTO/Martial%20Genius%20ft.%20Tobi.zip",
+        "size" : "7.85 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Badang ft. Madara",
+    "hero_name": "Badang",
+    "image": "https://github.com/KymyomaEclipse7/Tank/raw/main/received_2646176822348468.jpeg",
+    "replace": [
+      {
+        "skin": "Tribal Warrior",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/badangMadara.zip",
+        "size" : "3.01 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Badang ft. Jiraiya",
+    "hero_name": "Badang",
+    "image": "https://github.com/KymyomaEclipse7/MG/raw/main/received_1065987401235779.jpeg",
+    "replace": [
+      {
+        "skin": "Tribal Warrior",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/MG/raw/main/badangJiraiya.zip",
+        "size" : "2.86 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Brody ft. Shikimaru",
+    "hero_name": "Brody",
+    "image": "https://github.com/KymyomaEclipse7/MG/raw/main/received_313458611046466.jpeg",
+    "replace": [
+      {
+        "skin": "The Lone Star",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero1001-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/MG/raw/main/brodyShikimaru.zip",
+        "size" : "6.34 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Chou ft. Rock Lee",
+    "hero_name": "Chou",
+    "image": "https://github.com/KymyomaEclipse7/Tank/raw/main/received_685909396706715.jpeg",
+    "replace": [
+      {
+        "skin": "Kung Fu Boy",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/chouRockLee.zip",
+        "size" : "1.69 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Hayabusa ft. Itachi",
+    "hero_name": "Hayabusa",
+    "image": "https://github.com/KymyomaEclipse7/Tank/raw/main/received_6502304829863940.jpeg",
+    "replace": [
+      {
+        "skin": "Crimson Shadow",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero211-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/hayaItachi.zip",
+        "size" : "1.87 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Hayabusa ft. Kakashi",
+    "hero_name": "Hayabusa",
+    "image": "https://github.com/KymyomaEclipse7/Tank/raw/main/received_818916996296827.jpeg",
+    "replace": [
+      {
+        "skin": "Crimson Shadow",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero211-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/hayaKakashi.zip",
+        "size" : "9.11 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Hayabusa ft. Sasuke",
+    "hero_name": "Hayabusa",
+    "image": "https://github.com/KymyomaEclipse7/Tank/raw/main/received_6348859268497132.jpeg",
+    "replace": [
+      {
+        "skin": "Crimson Shadow",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero211-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/hayaSasuke.zip",
+        "size" : "10.0 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Kadita ft. Konan",
+    "hero_name": "Kadita",
+    "image": "https://github.com/KymyomaEclipse7/Tank/raw/main/received_667105498195151.jpeg",
+    "replace": [
+      {
+        "skin": "Ocean Goddess",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero751-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/kaditaKonan.zip",
+        "size" : "1.44 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Pharsa ft. Madara",
+    "hero_name": "Pharsa",
+    "image": "https://github.com/KymyomaEclipse7/Tank/raw/main/received_328759309479763.jpeg",
+    "replace": [
+      {
+        "skin": "Wings of Vengeance",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero521-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/pharsaMadara.zip",
+        "size" : "5.95 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Sun ft. Naruto",
+    "hero_name": "Sun",
+    "image": "https://github.com/KymyomaEclipse7/Tank/raw/main/received_612081504360958.jpeg",
+    "replace": [
+      {
+        "skin": "Monkey King",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero271-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/sunNaruto.zip",
+        "size" : "2.81 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Aldous ft. Might Guy",
+    "hero_name": "Aldous",
+    "image": "https://github.com/KymyomaEclipse7/MG/raw/main/received_829298798376501.jpeg",
+    "replace": [
+      {
+        "skin": "Contractor",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero641-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/MG/raw/main/aldousMightGuy.zip",
+        "size" : "3.46 MB"
+      }
+    ]
+  },
+  {
+    "skin_name": "Gusion ft. Minato",
+    "hero_name": "Gusion",
+    "image": "https://github.com/KymyomaEclipse7/Heroes/raw/main/received_2187899421409786.jpeg",
+    "replace": [
+      {
+        "skin": "Holy Blade",
+        "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png",
+        "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/gusMinato.zip",
+        "size" : "9.82 MB"
+      }
+    ]
+  }
+]
