@@ -294,6 +294,12 @@
                 "name": "Moonlit Ninja",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/ALLSTAR_Skin_Tag.png/revision/latest?cbu003d20230319055035",
                 "script": "25"
+            },
+            {
+                "name": "Vessel of Rage",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero106010-portrait.png",
+                "tag": "",
+                "script": "168"
             }
         ],
         "name": "Hanabi"
@@ -508,6 +514,12 @@
                 "name": "Miss Hikari",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/thumbnail-down/width/45/height/20?cbu003d20220113105226",
                 "script": "68"
+            },
+            {
+                "name": "Paranormal Operative",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero101811-portrait.png",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png",
+                "script": "169"
             }
         ],
         "name": "Layla"
@@ -779,7 +791,7 @@
             {
                 "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero398-portrait.png",
                 "name": "Fiend Haunter",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/PRIME_Skin_Tag.pn",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/PRIME_Skin_Tag.png",
                 "script": "115"
             },
             {

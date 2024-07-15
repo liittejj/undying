@@ -136,9 +136,9 @@
                 "script": "16"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest?cbu003d20220525164704",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png",
                 "name": "Skylark",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cbu003d20220216162258",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png",
                 "script": "17"
             },
             {
@@ -540,9 +540,9 @@
                 "script": "40"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest?cbu003d20220525170016",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png",
                 "name": "Street Punk",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cbu003d20230214083603",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png",
                 "script": "41"
             },
             {
@@ -569,7 +569,7 @@
                 "script": "45"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest?cbu003d20220804115337",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png",
                 "name": "Lord Shen",
                 "script": "46"
             }
@@ -589,9 +589,9 @@
                 "script": "86"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Street_Blow.jpg/revision/latest/scale-to-width-down/250?cbu003d20220108154346",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png",
                 "name": "Street Blow",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cbu003d20230214083603",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png",
                 "script": "87"
             },
             {
@@ -638,6 +638,12 @@
                 "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1094-portrait.png/revision/latest?cbu003d20221216103151",
                 "name": "Cyber Assassin",
                 "script": "93"
+            },
+            {
+                "name": "Vessel of Deceit",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1095-portrait.png",
+                "tag": "",
+                "script": "112"
             }
         ],
         "name": "Aamon"
