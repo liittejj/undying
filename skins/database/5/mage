@@ -141,6 +141,12 @@
                 "name": "Aquarius",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png",
                 "script": "111"
+            },
+            {
+                "name": "Veil of the Celestials",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero367-portrait.png",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png",
+                "script": "170"
             }
         ],
         "name": "Aurora"
@@ -177,9 +183,9 @@
                 "script": "97"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png/revision/latest?cbu003d20220525164845",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png",
                 "name": "Water Lily",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Annual_Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/40/height/20?cbu003d20211211020157",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Annual_Starlight_Skin_Tag.png",
                 "script": "98"
             },
             {
@@ -193,6 +199,12 @@
                 "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero259-portrait.png",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Clouds_Skin_Tag.png",
                 "script": "135"
+            },
+            {
+                "name": "Jade Blossom",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Hero102510-portrait.png",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png",
+                "script": "172"
             }
         ],
         "name": "Kagura"
@@ -234,7 +246,7 @@
                 "script": "139"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero387-portrait.png",
                 "name": "Twisted Fairytale",
                 "script": "164"
             }
@@ -273,9 +285,9 @@
                 "script": "104"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest?cbu003d20220525165207",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png",
                 "name": "Dream Caster",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cbu003d20220216235857",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png",
                 "script": "105"
             },
             {
@@ -322,6 +334,12 @@
                 "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero468-portrait.png/revision/latest?cbu003d20230514163407",
                 "name": "Sage of the Currents",
                 "script": "92"
+            },
+            {
+                "name": "Wisdom of the Stars",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero469-portrait.png",
+                "tag": "",
+                "script": "171"
             }
         ],
         "name": "Odette"
@@ -555,6 +573,12 @@
                 "name": "Keeper of the Winds",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cbu003d20220216162258",
                 "script": "41"
+            },
+            {
+                "name": "Concerto of Light",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero668-portrait.png",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Annual_Starlight_Skin_Tag.png",
+                "script": "173"
             }
         ],
         "name": "Vale"

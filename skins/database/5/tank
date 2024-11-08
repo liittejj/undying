@@ -341,6 +341,12 @@
                 "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero935-portrait.png/revision/latest?cbu003d20230514163425",
                 "name": "Rune of Sentinel",
                 "script": "47"
+            },
+            {
+                "name": " Mecha Infernus",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero936-portrait.png",
+                "tag": "",
+                "script": "112"
             }
         ],
         "name": "Atlas"
@@ -705,7 +711,7 @@
             {
                 "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero1174-portrait.png",
                 "name": "Neobeast Fredrinn",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Neobeast_Skin_Tag.png",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Neobeasts_Skin_Tag.png",
                 "script": "103"
             },
             {

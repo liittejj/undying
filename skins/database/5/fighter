@@ -43,9 +43,9 @@
                 "script": "40"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero100710-portrait.png/revision/latest?cbu003d20220802034527",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero100710-portrait.png",
                 "name": "Obi-wan Kenobi",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Star_Wars_Skin_Tag.png/revision/latest/thumbnail-down/width/49/height/20?cbu003d20211212004634 ",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Star_Wars_Skin_Tag.png",
                 "script": "41"
             }
         ],
@@ -503,9 +503,9 @@
                 "script": "159"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero456-portrait.png/revision/latest?cbu003d20220525165232",
-                "name": "Darth Vader ",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Star_Wars_Skin_Tag.png/revision/latest/thumbnail-down/width/49/height/20?cbu003d20211212004634 ",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero456-portrait.png",
+                "name": "Darth Vader",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Star_Wars_Skin_Tag.png",
                 "script": "160"
             },
             {
@@ -609,6 +609,12 @@
                 "name": "Levi",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Attack_on_Titan_Skin_Tag.png",
                 "script": "92"
+            },
+            {
+                "name": "Darkwater Terror",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png",
+                "script": "225"
             }
         ],
         "name": "Martis"
@@ -711,6 +717,12 @@
                 "name": "Shadow Knight",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/ABYSS_Skin_Tag.png",
                 "script": "156"
+            },
+            {
+                "name": "Diavel V4 Rider",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero678-portrait.png",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Ducati_Skin_Tag.png",
+                "script": "226"
             }
         ],
         "name": "Leomord"
@@ -1117,7 +1129,7 @@
             {
                 "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero958-portrait.png",
                 "name": "Cosmic Dragon",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/PRIME_Skin_Tag.pn",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/PRIME_Skin_Tag.png",
                 "script": "198"
             }
         ],
@@ -1230,6 +1242,18 @@
                 "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1038-portrait.png",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png",
                 "script": "216"
+            },
+            {
+                "name": "FlapTzy",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png",
+                "tag": "",
+                "script": "227"
+            },
+            {
+                "name": "Fist of Glory",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero1039-portrait.png",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Finals_MVP_Skin_Tag.png",
+                "script": "228"
             }
         ],
         "name": "Paquito"
@@ -1300,9 +1324,9 @@
                 "script": "139"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1135-portrait.png/revision/latest?cbu003d20230623125844",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1135-portrait.png",
                 "name": "Eternal Guardian",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cbu003d20230214083603",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png",
                 "script": "140"
             },
             {
@@ -1318,7 +1342,7 @@
         "data": [
             {
                 "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png/revision/latest?cbu003d20220525170638",
-                "name": "Scarlet Reaven ",
+                "name": "Scarlet Raven ",
                 "script": "141"
             },
             {
@@ -1331,6 +1355,12 @@
                 "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1163-portrait.png",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Jujutsu_Kaisen_Skin_Tag.png",
                 "script": "143"
+            },
+            {
+                "name": "Reserved String",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png",
+                "script": "229"
             }
         ],
         "name": "Julian"

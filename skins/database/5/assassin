@@ -18,9 +18,9 @@
                 "script": "74"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero037-portrait.png/revision/latest?cbu003d20220525164336",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero037-portrait.png",
                 "name": "Onimaru",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cbu003d20220216162258",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Luckybox_Skin_Tag.png",
                 "script": "75"
             },
             {
@@ -153,9 +153,9 @@
                 "script": "19"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cbu003d20220714031230",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png",
                 "name": "Blade of Kibou",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/thumbnail-down/width/45/height/20?cbu003d20220113105226",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png",
                 "script": "20"
             },
             {
@@ -195,7 +195,7 @@
             {
                 "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero215-portrait.png",
                 "name": "Experiment 21",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Lunar_Festival_Tag.png",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Annual_Starlight_Skin_Tag.png",
                 "script": "66"
             },
             {
@@ -334,6 +334,12 @@
                 "name": "Marques of Blades",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cbu003d20210414064230",
                 "script": "98"
+            },
+            {
+                "name": "Guardian of the Shrine",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png",
+                "tag": "",
+                "script": "113"
             }
         ],
         "name": "Lancelot"
@@ -427,9 +433,9 @@
                 "script": "9"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cbu003d20221103134623",
-                "name": "Dimensions Walker",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Double_11_Skin_Tag.png/revision/latest/thumbnail-down/width/40/height/20?cbu003d20220217000032",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png",
+                "name": "Dimension Walker",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Double_11_Skin_Tag.png",
                 "script": "10"
             },
             {
@@ -642,7 +648,7 @@
             {
                 "name": "Vessel of Deceit",
                 "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1095-portrait.png",
-                "tag": "",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Soul_Vessels_Skin_Tag.png",
                 "script": "112"
             }
         ],
@@ -697,7 +703,7 @@
             },
             {
                 "name": "Fashion Mogul",
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero1223-portrait.png",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png",
                 "script": "108"
             }

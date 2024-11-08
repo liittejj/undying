@@ -179,6 +179,12 @@
                 "name": "Hawk-eyed Sniper",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Annual_Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/40/height/20?cbu003d20211211020157",
                 "script": "9"
+            },
+            {
+                "name": "Deadeye Spectre",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero105311-portrait.png",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png",
+                "script": "170"
             }
         ],
         "name": "Lesley"
@@ -298,7 +304,7 @@
             {
                 "name": "Vessel of Rage",
                 "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero106010-portrait.png",
-                "tag": "",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Soul_Vessels_Skin_Tag.png",
                 "script": "168"
             }
         ],
@@ -352,6 +358,12 @@
                 "name": "Ice Talon",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png",
                 "script": "148"
+            },
+            {
+                "name": "Breath of Naraka",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png",
+                "tag": "",
+                "script": "171"
             }
         ],
         "name": "Karrie"
@@ -450,9 +462,9 @@
                 "script": "47"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero717-portrait.png/revision/latest?cbu003d20220628180011",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero717-portrait.png",
                 "name": "First Order Jet Trooper",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Star_Wars_Skin_Tag.png/revision/latest/thumbnail-down/width/49/height/20?cbu003d20211212004634",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Star_Wars_Skin_Tag.png",
                 "script": "48"
             },
             {
@@ -578,6 +590,12 @@
                 "name": "Cosmic Blast",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png",
                 "script": "77"
+            },
+            {
+                "name": "Captain of the Reefs",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png",
+                "tag": "",
+                "script": "172"
             }
         ],
         "name": "Clint"
@@ -916,6 +934,12 @@
                 "name": "Quantum Grip",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/MPL_Skin_Tag.png",
                 "script": "133"
+            },
+            {
+                "name": "AP Bren",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero1007-portrait.png",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Champion_Skin_Tag.png",
+                "script": "173"
             }
         ],
         "name": "Brody"
@@ -947,7 +971,7 @@
             {
                 "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png",
                 "name": "Stellar Briliance",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/PRIME_Skin_Tag.pn",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/PRIME_Skin_Tag.png",
                 "script": "138"
             },
             {

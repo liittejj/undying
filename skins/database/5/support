@@ -101,9 +101,15 @@
                 "script": "15"
             },
             {
-                "image": "https://github.com/lanz132/NEWIMG/raw/main/angela.jpg",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero105510-portrait.png",
                 "name": "Avatar of Time",
                 "script": "53"
+            },
+            {
+                "name": "Strings of Fate",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png",
+                "tag": "",
+                "script": "56"
             }
         ],
         "name": "Angela"
